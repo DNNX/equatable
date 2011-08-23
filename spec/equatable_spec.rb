@@ -11,7 +11,6 @@ class Sock
   equatable :size, :color
 end
 
-
 describe Equatable do
     
   subject { Sock.new(10, :black, 20) }
