@@ -8,7 +8,6 @@ This gem allows you to create `#hash`, `#==` and `#eql?` method based on which f
 
 # Usage
 
-::: Ruby
     require 'equatable'
     class Gadget
       attr_reader :model, :color, :price
