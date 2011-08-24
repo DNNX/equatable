@@ -1,4 +1,4 @@
-# Description [![Build Status](https://secure.travis-ci.org/DNNX/equatable.png)](https://secure.travis-ci.org/DNNX/equatable.png)
+# Description [![Build Status](https://secure.travis-ci.org/DNNX/equatable.png)](http://travis-ci.org/#!/DNNX/equatable)
 
 This gem allows you to create `#hash`, `#==` and `#eql?` method based on which fields should be used for comparison of two objects.
 
