@@ -2,13 +2,13 @@ PATH
   remote: .
   specs:
     equatable (0.0.1)
-      rake (~> 0.8)
+      rake (~> 0.9.2)
 
 GEM
   remote: http://rubygems.org/
   specs:
     diff-lcs (1.1.2)
-    rake (0.8.7)
+    rake (0.9.2)
     rspec (2.6.0)
       rspec-core (~> 2.6.0)
       rspec-expectations (~> 2.6.0)
@@ -23,5 +23,5 @@ PLATFORMS
 
 DEPENDENCIES
   equatable!
-  rake (~> 0.8)
+  rake (~> 0.9.2)
   rspec (~> 2.6)
