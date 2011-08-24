@@ -22,7 +22,8 @@ class Sock
 end}
 
   s.add_development_dependency "rspec", "~> 2.6"
-  
+  s.add_dependency "rake", "~> 0.8"
+
   s.rubyforge_project = "equatable"
 
   s.files         = `git ls-files`.split("\n")
