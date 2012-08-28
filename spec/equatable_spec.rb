@@ -4,6 +4,7 @@ class Sock
   include Equatable
   
   attr_reader :size, :color, :price
+  
   def initialize(size, color, price)
     @size, @color, @price = size, color, price
   end
