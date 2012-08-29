@@ -23,6 +23,7 @@ end}
 
   s.add_development_dependency "rspec", "~> 2.6"
   s.add_dependency "rake", "~> 0.9.2"
+  s.add_dependency 'nokogiri'
 
   s.rubyforge_project = "equatable"
 
